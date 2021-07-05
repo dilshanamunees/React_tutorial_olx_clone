@@ -20,7 +20,7 @@ useEffect(() => {
        id: product.id,
       }
     })
-   
+   console.log(allPost)
     setProducts(allPost)
   })
  
